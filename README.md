@@ -1,19 +1,19 @@
 # Ecommerce-Sales-Dashboard
 
-An interactive E-Commerce Sales Dashboard created using Power BI to track sales, profit, customer trends, 
-and payment methods. The dashboard allows users to easily analyze data quarter-wise and state-wise using
-interactive filters and visual reports, helping businesses make better decisions from sales data.
+An interactive E-Commerce Sales Dashboard created using Power BI to track sales, profit, customer trends, and 
+payment methods. The dashboard allows users to easily analyze data quarter-wise and state-wiseusing interactive
+filters and visual reports, helping businesses make better decisions from sales data.
 
 ## 📌 Project Objective
 
-The objective of this project is to create an interactive dashboard that helps businesses:
+**The objective of this project is to create an interactive dashboard that helps businesses:**
 
-Monitor overall sales and profit performance
-Analyze quarterly sales trends
-Compare state-wise sales performance
-Identify top customers and profitable sub-categories
-Understand customer payment preferences
-Make data-driven business decisions using visual analytics
+Monitor overall sales and profit performance.
+Analyze quarterly sales trends.
+Compare state-wise sales performance.
+Identify top customers and profitable sub-categories.
+Understand customer payment preferences.
+Make data-driven business decisions using visual analytics.
 
 ## ❓Business Questions
 ```
@@ -29,19 +29,19 @@ Make data-driven business decisions using visual analytics
 
 ## ⚙️Process
 
-1. Data Collection
+**1. Data Collection**
 Collected e-commerce sales data from CSV datasets.
 
-2. Data Cleaning
+**2. Data Cleaning**
 Removed null values and duplicates
 Corrected inconsistent data types
 Structured data for analysis
 
-3. Data Transformation
+**3. Data Transformation**
 Used Power Query for data transformation
 Created calculated columns and DAX measures
 
-4. Dashboard Creation
+**4. Dashboard Creation**
 Developed interactive visuals including:
 KPI Cards
 Bar Charts
@@ -58,6 +58,7 @@ State-wise analysis
 Category-based filtering
 
 **This allows users to easily monitor sales and profit performance for specific quarters and states.**
+
 
 ## 📊Dashboard Preview
 
