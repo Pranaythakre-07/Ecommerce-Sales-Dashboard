@@ -14,32 +14,35 @@ Compare state-wise sales performance
 Identify top customers and profitable sub-categories
 Understand customer payment preferences
 Make data-driven business decisions using visual analytics
-❓ Business Questions
 
-This dashboard answers important business questions such as:
+# ❓Business Questions
+```
+1) What is the total sales amount and total profit?
+2) Which state generates the highest sales?
+3) Which sub-category contributes the most profit?
+4) How does profit vary month-wise?
+5) Which payment method is used most by customers?
+6) Who are the top customers by sales amount?
+7) Which category has the highest quantity sold?
+8) How can users analyze quarterly and state-wise data dynamically?
+```
 
-What is the total sales amount and total profit?
-Which state generates the highest sales?
-Which sub-category contributes the most profit?
-How does profit vary month-wise?
-Which payment method is used most by customers?
-Who are the top customers by sales amount?
-Which category has the highest quantity sold?
-How can users analyze quarterly and state-wise data dynamically?
-⚙️ Process
+# ⚙️Process
+
 1. Data Collection
-Collected e-commerce sales data from CSV/Excel datasets.
+Collected e-commerce sales data from CSV datasets.
+
 2. Data Cleaning
 Removed null values and duplicates
 Corrected inconsistent data types
 Structured data for analysis
+
 3. Data Transformation
 Used Power Query for data transformation
 Created calculated columns and DAX measures
+
 4. Dashboard Creation
-
 Developed interactive visuals including:
-
 KPI Cards
 Bar Charts
 Donut Charts
@@ -47,29 +50,23 @@ Monthly Profit Analysis
 State-wise Sales Analysis
 Customer-wise Sales Analysis
 Profit by Sub-Category
+
 5. Interactive Filtering
-
 Implemented dynamic filters and slicers for:
-
 Quarter-wise analysis (Qtr1, Qtr2, Qtr3, Qtr4)
 State-wise analysis
 Category-based filtering
 
 This allows users to easily monitor sales and profit performance for specific quarters and states.
 
-📊 Dashboard Features
-Key Performance Indicators (KPIs)
-Total Sales Amount: 438K
-Total Profit: 37K
-Total Quantity Sold: 5615
-Average Order Value (AOV): 121K
-Dashboard Visuals
-Sales Amount by State
-Profit by Month
-Quantity by Category
-Quantity by Payment Mode
-Profit by Sub-Category
-Sales by Customer Name
+## Dashboard Preview
+
+<p align="center">
+  <img src="screenshots/dashboard.png" width="1000">
+</p>
+
+
+
 
 # 🔍 Project Insights
 Maharashtra recorded the highest sales performance.
