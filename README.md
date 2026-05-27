@@ -61,12 +61,7 @@ This allows users to easily monitor sales and profit performance for specific qu
 
 ## Dashboard Preview
 
-<p align="center">
-  <img src="screenshots/dashboard.png" width="1000">
-</p>
-
-
-
+![image alt](https://github.com/Pranaythakre-07/Ecommerce-Sales-Dashboard/blob/c68ae8aa363a31d15084d0319eef931b63b84ed1/dashboard.png.png)
 
 # 🔍 Project Insights
 ```
