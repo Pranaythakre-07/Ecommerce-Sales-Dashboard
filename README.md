@@ -65,16 +65,16 @@ Category-based filtering
 ![image alt](https://github.com/Pranaythakre-07/Ecommerce-Sales-Dashboard/blob/c68ae8aa363a31d15084d0319eef931b63b84ed1/dashboard.png.png)
 
 ## 🔍 Project Insights
-```
+
 1) Maharashtra recorded the highest sales performance.
-2) Clothing category contributed 63% of total quantity sold.
-3) COD (Cash on Delivery) is the most preferred payment mode with 44% usage.
-4) Printers generated the highest profit among sub-categories.
-5) January and November showed the highest profit growth.
-6) Some months showed negative profit, indicating loss periods.
-7) Quarter-wise filtering helps identify seasonal sales trends.
-8) State-wise analysis enables regional performance comparison.
-```
+3) Clothing category contributed 63% of total quantity sold.
+4) COD (Cash on Delivery) is the most preferred payment mode with 44% usage.
+5) Printers generated the highest profit among sub-categories.
+6) January and November showed the highest profit growth.
+7) Some months showed negative profit, indicating loss periods.
+8) Quarter-wise filtering helps identify seasonal sales trends.
+9) State-wise analysis enables regional performance comparison.
+   
 ## ✅ Conclusion
 
 This Power BI dashboard effectively transforms raw e-commerce data into meaningful business insights 
