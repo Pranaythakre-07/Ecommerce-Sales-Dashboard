@@ -4,7 +4,7 @@ An interactive E-Commerce Sales Dashboard created using Power BI to track sales,
 and payment methods. The dashboard allows users to easily analyze data quarter-wise and state-wise using
 interactive filters and visual reports, helping businesses make better decisions from sales data.
 
-# 📌 Project Objective
+## 📌 Project Objective
 
 The objective of this project is to create an interactive dashboard that helps businesses:
 
@@ -15,7 +15,7 @@ Identify top customers and profitable sub-categories
 Understand customer payment preferences
 Make data-driven business decisions using visual analytics
 
-# ❓Business Questions
+## ❓Business Questions
 ```
 1) What is the total sales amount and total profit?
 2) Which state generates the highest sales?
@@ -27,7 +27,7 @@ Make data-driven business decisions using visual analytics
 8) How can users analyze quarterly and state-wise data dynamically?
 ```
 
-# ⚙️Process
+## ⚙️Process
 
 1. Data Collection
 Collected e-commerce sales data from CSV datasets.
@@ -63,7 +63,7 @@ This allows users to easily monitor sales and profit performance for specific qu
 
 ![image alt](https://github.com/Pranaythakre-07/Ecommerce-Sales-Dashboard/blob/c68ae8aa363a31d15084d0319eef931b63b84ed1/dashboard.png.png)
 
-# 🔍 Project Insights
+## 🔍 Project Insights
 ```
 1) Maharashtra recorded the highest sales performance.
 2) Clothing category contributed 63% of total quantity sold.
@@ -74,7 +74,7 @@ This allows users to easily monitor sales and profit performance for specific qu
 7) Quarter-wise filtering helps identify seasonal sales trends.
 8) State-wise analysis enables regional performance comparison.
 ```
-# ✅ Conclusion
+## ✅ Conclusion
 
 This Power BI dashboard effectively transforms raw e-commerce data into meaningful business insights 
 through interactive visualizations and dynamic filtering. The dashboard helps businesses track sales,
