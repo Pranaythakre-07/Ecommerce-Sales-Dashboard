@@ -69,15 +69,16 @@ This allows users to easily monitor sales and profit performance for specific qu
 
 
 # 🔍 Project Insights
-Maharashtra recorded the highest sales performance.
-Clothing category contributed 63% of total quantity sold.
-COD (Cash on Delivery) is the most preferred payment mode with 44% usage.
-Printers generated the highest profit among sub-categories.
-January and November showed the highest profit growth.
-Some months showed negative profit, indicating loss periods.
-Quarter-wise filtering helps identify seasonal sales trends.
-State-wise analysis enables regional performance comparison.
-
+```
+1) Maharashtra recorded the highest sales performance.
+2) Clothing category contributed 63% of total quantity sold.
+3) COD (Cash on Delivery) is the most preferred payment mode with 44% usage.
+4) Printers generated the highest profit among sub-categories.
+5) January and November showed the highest profit growth.
+6) Some months showed negative profit, indicating loss periods.
+7) Quarter-wise filtering helps identify seasonal sales trends.
+8) State-wise analysis enables regional performance comparison.
+```
 # ✅ Conclusion
 
 This Power BI dashboard effectively transforms raw e-commerce data into meaningful business insights 
