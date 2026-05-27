@@ -51,15 +51,15 @@ State-wise Sales Analysis
 Customer-wise Sales Analysis
 Profit by Sub-Category
 
-5. Interactive Filtering
+**5. Interactive Filtering**
 Implemented dynamic filters and slicers for:
 Quarter-wise analysis (Qtr1, Qtr2, Qtr3, Qtr4)
 State-wise analysis
 Category-based filtering
 
-This allows users to easily monitor sales and profit performance for specific quarters and states.
+**This allows users to easily monitor sales and profit performance for specific quarters and states.**
 
-## Dashboard Preview
+## 📊Dashboard Preview
 
 ![image alt](https://github.com/Pranaythakre-07/Ecommerce-Sales-Dashboard/blob/c68ae8aa363a31d15084d0319eef931b63b84ed1/dashboard.png.png)
 
